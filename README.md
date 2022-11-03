@@ -1,4 +1,4 @@
-# Let's Shop!
+<img src="https://github.com/LetsShop3DS/LetsShop3DS/blob/main/LetsShop.png?raw=true">
 
 Let's Shop is a collaborative effort to create custom backends for the Nintendo eShop (3DS only currently) in Python, before it's death in March 2023.
 
