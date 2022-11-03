@@ -13,3 +13,4 @@ There is also title installation planned, because I think everybody agrees that 
 All of that... in 5 months, as I write this (3rd of November of 2022).*
 
 Stay tuned! :sparkles:
+Our Partners Include <a href="https://github.com/GuestDreemurr/game-appstore">Guest's Game Store</a>.
