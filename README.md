@@ -13,3 +13,7 @@ There is also title installation planned, because I think everybody agrees that 
 All of that... in 5 months, as I write this (3rd of November of 2022).*
 
 Stay tuned! :sparkles:
+
+# ABOUT PIRACY
+
+Let's Shop official server WILL NOT IN ANY WAY OFFER FREE GAMES OR PROMOTE PIRACY. WE ARE AGAINST IT AND YOU SHOULD NOT USE THIS PROJECT FOR THIS, AS YOU MAY GET IN SERIOUS TROUBLE WITH Nintendo.
