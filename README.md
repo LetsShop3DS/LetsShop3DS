@@ -1,5 +1,8 @@
 <img src="https://github.com/LetsShop3DS/LetsShop3DS/blob/main/LetsShop.png?raw=true">
-# WARNING: THIS PROJECT IS NOT COMPATIBLE WITH THE WUP (Wii U) eSHOP.
+
+# Let's Shop!
+
+**WARNING: THIS PROJECT IS NOT COMPATIBLE WITH THE WUP (Wii U) eSHOP.**
 
 Let's Shop is a collaborative effort to create custom backends for the Nintendo eShop (3DS only currently) in Python, before its death in March 2023.
 
