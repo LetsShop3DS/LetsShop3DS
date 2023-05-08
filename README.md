@@ -1,6 +1,7 @@
 <img src="https://github.com/LetsShop3DS/LetsShop3DS/blob/main/LetsShop.png?raw=true">
 
 # Let's Shop!
+**Public beta is open! Check the [setup instructions](https://github.com/LetsShop3DS/LetsShop3DS/wiki/Connect-to-Let's-Shop!) to get started!**
 
 **WARNING: THIS PROJECT IS NOT COMPATIBLE WITH THE WUP (Wii U) eSHOP.**
 
@@ -13,8 +14,6 @@ This project is a rewrite in Python from the ReShop project, available <a href="
 The finished beta 1.1 server is available here: https://github.com/LetsShop3DS/shopdeck
 
 The custom server features all of the necessary servers to be Nintendo eShop-independant, meaning that the server will more or less stay the same after March 31, 2023.
-
-Private beta is open! check the [setup instructions](https://github.com/LetsShop3DS/LetsShop3DS/wiki/Connect-to-Let's-Shop!) to get started!
 
 Hope you enjoy our work! :sparkles: And if you do, don't hesitate joining our Discord: https://discord.com/invite/WHrpZvVgdK
 
