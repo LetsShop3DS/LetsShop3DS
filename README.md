@@ -1,7 +1,8 @@
-**Let's Shop has been shutdown. Thank you for using the service. Do not try to connect to Let's Shop, it will error out.**
 <img src="https://github.com/LetsShop3DS/LetsShop3DS/blob/main/LetsShop.png?raw=true">
 
-# Let's Shop!
+# Let's Shop has been shutdown. Thank you for using the service. Do not try to connect to Let's Shop, it will error out.
+
+## Let's Shop!
 **Public beta is open! Check the [setup instructions](https://github.com/LetsShop3DS/LetsShop3DS/wiki/Connect-to-Let's-Shop!) to get started!**
 
 **WARNING: THIS PROJECT IS NOT COMPATIBLE WITH THE WUP (Wii U) eSHOP.**
