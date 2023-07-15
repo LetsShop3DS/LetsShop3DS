@@ -1,3 +1,4 @@
+**Let's Shop has been shutdown. Thank you for using the service. Do not try to connect to Let's Shop, it will error out.**
 <img src="https://github.com/LetsShop3DS/LetsShop3DS/blob/main/LetsShop.png?raw=true">
 
 # Let's Shop!
